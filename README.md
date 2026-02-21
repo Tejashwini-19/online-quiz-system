@@ -7,6 +7,7 @@ This project demonstrates Object-Oriented Programming concepts like packages, in
 
 ## 📂 Project Structure
 
+```
 src
  └── quiz
       ├── Main.java
@@ -16,8 +17,7 @@ src
       │     └── Question.java
       └── services
             └── QuizService.java
-
----
+```
 
 ## 📄 File Description
 
